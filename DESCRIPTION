@@ -1,0 +1,23 @@
+Package: DynamicBakeryPackageR
+Title: Dynamic Pricing Simulation for a Polish Bakery
+Version: 0.1.1
+Authors@R: c(
+    person(given = "Teo",
+           family = "Le Provost",
+           role = c("aut", "cre"),
+           email = "t.leprovost@student.uw.edu.pl"),
+    person(given = "Luka",
+           family = "de Caters",
+           role = "aut"))
+Description: Simulates stock-market-style dynamic pricing for bakery products
+    based on demand pressure, stock levels, and freshness throughout a
+    simulated business day. Built around the Lubaszka bakery in Warsaw.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
+Imports: methods, shiny
+Suggests: ggplot2
+LazyData: true
+Depends: 
+    R (>= 3.5)
