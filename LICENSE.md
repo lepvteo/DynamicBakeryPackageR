@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2026 DynamicBakerPackageR authors
+Copyright (c) 2026 DynamicBakeryPackageR authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

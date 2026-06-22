@@ -88,8 +88,8 @@ ui <- fluidPage(
 
       div(class = "main-area",
           div(class = "header",
-              h1("Bakery Dashboard"),
-              p("Dynamic pricing simulation — Lubaszka")
+              h1("Bakery Dynamic Pricing Simulator"),
+              p("Demand-Driven Approach - Based on Real Warsaw Bakery")
           ),
           div(class = "chart-card",
               div(class = "chart-label", "Visualization"),

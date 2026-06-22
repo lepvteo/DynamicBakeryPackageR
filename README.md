@@ -7,8 +7,17 @@ Built as part of the Advanced Programming in R course of the Data Science & Busi
 
 ## Installation
 
+From downloaded tar.gz file:
+
 ```r
-install.packages("path/to/DynamicBakeryPackageR_0.1.1.tar.gz", repos = NULL, type = "source")
+install.packages("path/to/DynamicBakeryPackageR_0.1.2.tar.gz", repos = NULL, type = "source")
+```
+
+or from github repository
+
+```r
+install.packages("remotes")
+remotes::install_github("lepvteo/DynamicBakeryPackageR")
 ```
 
 > **Note:** Some email clients (e.g. Gmail on macOS) may automatically 
