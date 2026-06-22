@@ -39,6 +39,12 @@ simulator(product = kanapka_szarpana, bakery = lubaszka_solec, day = "mon", nb_p
 monte_carlo_simulation(product = kanapka_szarpana, bakery = lubaszka_solec, day = "mon", n_runs = 100)
 ```
 
+## Dashboard
+
+![Bakery Dynamic Pricing Simulator](man/figures/dashboard_screenshot_2.png)
+
+The interactive Shiny dashboard allows simulating a full bakery business day with dynamic pricing. The simulation can be adjusted by product category, total number of purchase, and price update interval. A built-in Monte Carlo engine runs multiple price path scenarios to visualize demand uncertainty across the day.
+
 ## Package structure
 
 - `R/classes.R` — S4 class hierarchy (Bakery, Product, Bread, Sandwich, Pizza)

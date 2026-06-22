@@ -13,6 +13,11 @@
     "DynamicBakeryPackageR": {
       "Source": "github",
       "Repository": "https://github.com/lepvteo/DynamicBakeryPackageR",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "lepvteo",
+      "RemoteRepo": "DynamicBakeryPackageR",
+      "RemoteRef": "master",
       "description": {
         "Package": "DynamicBakeryPackageR",
         "Title": "Dynamic Pricing Simulation for a Polish Bakery",
