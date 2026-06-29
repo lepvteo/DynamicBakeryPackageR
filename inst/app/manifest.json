@@ -11,14 +11,14 @@
   },
   "packages": {
     "DynamicBakeryPackageR": {
-      "Source": "Github",
-      "Repository": "lepvteo/DynamicBakeryPackageR",
-      "Ref": "3d4fe21ce46b59cd80ca2849126671e42a8b75bb",
+      "Source": "GitHub",
+      "Repository": "https://github.com/lepvteo/DynamicBakeryPackageR",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "lepvteo",
       "RemoteRepo": "DynamicBakeryPackageR",
       "RemoteRef": "master",
+      "RemoteSha": "9efb4855e77cbe8ae98e3cf1c9815b027d961294",
       "description": {
         "Package": "DynamicBakeryPackageR",
         "Title": "Dynamic Pricing Simulation for a Polish Bakery",
