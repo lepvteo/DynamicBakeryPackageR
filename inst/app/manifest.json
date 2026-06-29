@@ -11,8 +11,9 @@
   },
   "packages": {
     "DynamicBakeryPackageR": {
-      "Source": "github",
-      "Repository": "https://github.com/lepvteo/DynamicBakeryPackageR",
+      "Source": "Github",
+      "Repository": "lepvteo/DynamicBakeryPackageR",
+      "Ref": "3d4fe21ce46b59cd80ca2849126671e42a8b75bb",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "lepvteo",
