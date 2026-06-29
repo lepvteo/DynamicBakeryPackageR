@@ -45,6 +45,9 @@ monte_carlo_simulation(product = kanapka_szarpana, bakery = lubaszka_solec, day 
 
 The interactive Shiny dashboard allows simulating a full bakery business day with dynamic pricing. The simulation can be adjusted by product category, total number of purchase, and price update interval. A built-in Monte Carlo engine runs multiple price path scenarios to visualize demand uncertainty across the day.
 
+**Live demo available on [Posit Connect Cloud](https://lepvteo-dynamic-pricing-bakery-app.share.connect.posit.cloud)**
+
+
 ## Package structure
 
 - `R/classes.R` — S4 class hierarchy (Bakery, Product, Bread, Sandwich, Pizza)
